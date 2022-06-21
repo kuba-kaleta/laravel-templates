@@ -28,3 +28,7 @@ Route::get('/soap_dataaccess', function () {
 Route::get('/serialize', function () {
     return view('serialize');
 });
+
+Route::get('/js_demo', function () {
+    return view('js_demo');
+});

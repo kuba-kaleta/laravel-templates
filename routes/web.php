@@ -32,3 +32,7 @@ Route::get('/serialize', function () {
 Route::get('/js_demo', function () {
     return view('js_demo');
 });
+
+Route::get('/vue', function () {
+    return view('vue');
+});

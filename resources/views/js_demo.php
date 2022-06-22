@@ -406,6 +406,8 @@
 
 <body class="antialiased">
 
+    <button type="button" onclick='document.getElementById("demo").innerHTML = "Dont click me!"'>Click Me!</button>
+
     <p id="demo">JavaScript can change HTML content.</p>
 
     <button type="button" onclick='document.getElementById("demo").innerHTML = "Hello JavaScript!"'>Click Me!</button>

@@ -412,6 +412,12 @@
 
     <button type="button" onclick='document.getElementById("demo").innerHTML = "Hello JavaScript!"'>Click Me!</button>
 
+    <button type="button" onclick="document.write(5 + 6)">Try it</button>
+
+    <script>
+        // alert(5 + 6);
+    </script>
+
 </body>
 
 </html>

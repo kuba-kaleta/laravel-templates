@@ -36,3 +36,7 @@ Route::get('/js_demo', function () {
 Route::get('/vue', function () {
     return view('vue');
 });
+
+Route::get('/dropdown_list', function () {
+    return view('dropdown_list');
+});

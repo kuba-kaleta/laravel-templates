@@ -21,22 +21,6 @@ Route::get('/home', function () {
     return view('home');
 });
 
-Route::get('/soap_dataaccess', function () {
-    return view('soap_dataaccess');
-});
-
-Route::get('/serialize', function () {
-    return view('serialize');
-});
-
-Route::get('/js_demo', function () {
-    return view('js_demo');
-});
-
 Route::get('/vue', function () {
     return view('vue');
-});
-
-Route::get('/dropdown_list', function () {
-    return view('dropdown_list');
 });

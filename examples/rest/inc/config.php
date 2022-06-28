@@ -1,4 +1,4 @@
-<?
+<?php
 define("DB_HOST", "localhost");
 define("DB_USERNAME", "isys");
 define("DB_PASSWORD", "isys");

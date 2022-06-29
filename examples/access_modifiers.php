@@ -1,4 +1,6 @@
-<?
+<?php
+
+# http://localhost/laravel-templates/examples/access_modifiers.php
 
 class Fruit{
     public $name;

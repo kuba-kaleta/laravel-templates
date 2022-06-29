@@ -1,4 +1,4 @@
-<?
+<?php
 namespace Code\Html;
 
 class Table {

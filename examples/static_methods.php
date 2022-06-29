@@ -1,9 +1,12 @@
-<?
+<?php
+
+// static_methods.php
+
 namespace MyStatic{
 
 class greeting {
   private static function welcome() {
-    echo "Hello World!<br>";
+    echo "Welcome<br>";
   }
 
   public function __construct() {

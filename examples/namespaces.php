@@ -1,4 +1,10 @@
 <?php
+
+/* ===========================================================
+Name: namespaces.php                
+Comment: Namespaces demo     
+=========================================================== */
+
 namespace Code\Html;
 
 class Table {

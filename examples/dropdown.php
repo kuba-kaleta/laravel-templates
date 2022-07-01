@@ -1,5 +1,10 @@
 <?php
 
+/* ===========================================================
+Name: dropdown.php                 
+Comment: Dropdown Lists demo     
+=========================================================== */
+
 function checkSelected($fieldValue, $selectName)
 {
     if ($_SERVER['REQUEST_METHOD'] == 'POST') {

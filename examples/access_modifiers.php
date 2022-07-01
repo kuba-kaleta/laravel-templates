@@ -1,6 +1,9 @@
 <?php
 
-# http://localhost/laravel-templates/examples/access_modifiers.php
+/* ===========================================================
+PATH: http://localhost/laravel-templates/examples/access_modifiers.php                
+Comment: Access Modifiers demo     
+=========================================================== */
 
 class Fruit{
     public $name;

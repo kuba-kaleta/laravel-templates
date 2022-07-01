@@ -1,3 +1,7 @@
+<!-- Name: serialize.php -->
+<!-- Comment: Serialize demo -->
+<!-- Code comes from: https://www.php.net/manual/en/jsonserializable.jsonserialize.php -->
+
 <!DOCTYPE html>
 <html lang="{{ str_replace('_', '-', app()->getLocale()) }}">
 
@@ -15,9 +19,6 @@
 <body class="antialiased">
 
     <?php
-
-    // code comes from: https://www.php.net/manual/en/jsonserializable.jsonserialize.php
-    // serialize.php
     
     class ArrayValue implements JsonSerializable
     {

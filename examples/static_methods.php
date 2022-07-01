@@ -1,6 +1,9 @@
 <?php
 
-// static_methods.php
+/* ===========================================================
+Name: static_methods.php                  
+Comment: Static methods demo     
+=========================================================== */
 
 namespace MyStatic{
 

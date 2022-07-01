@@ -1,17 +1,14 @@
-<?php
-
-// js_demo.php
-
-?>
+<!-- Name: js_demo.php -->
+<!-- Comment: JavaScript demo -->
 
 <!DOCTYPE html>
-<html lang="{{ str_replace('_', '-', app()->getLocale()) }}">
+<html lang="en">
 
 <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
 
-    <title>Laravel</title>
+    <title>JS</title>
 
     <!-- Fonts -->
     <link href="https://fonts.googleapis.com/css2?family=Nunito:wght@400;600;700&display=swap" rel="stylesheet">
@@ -34,7 +31,7 @@
     <button type="button" onclick="document.write('surprise')">Try me</button>
 
     <script>
-        // alert(5 + 6);
+        // alert(5 + 5);
     </script>
 
 </body>

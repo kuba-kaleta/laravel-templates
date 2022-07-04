@@ -16,7 +16,7 @@
 
     <div id="app">
         <div class="container" >
-            <articles></articles>
+            <articles></articles> <!-- TODO: start vue -->
         </div>
     </div>
 

@@ -1,8 +1,9 @@
 <?php
 
 /* ========================================================================================
-Path: http://localhost/laravel-templates/examples/rest/index.php/user/list?limit=20
+Name: index.php
 Comment: Restapi testing
+Sample URL: http://localhost/laravel-templates/examples/rest/index.php/user/list?limit=20
 Code comes from: https://zditect.com/code/php/how-to-build-a-simple-rest-api-inphp.html
 ======================================================================================== */
 

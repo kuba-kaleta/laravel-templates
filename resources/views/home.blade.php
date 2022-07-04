@@ -12,7 +12,7 @@
 <body>
 
 <div id="app">
-    <front-page></front-page>
+    <front-page></front-page> <!-- TODO: start vue -->
 </div>
 
 <script src="{{ mix('js/app.js') }}"></script>
